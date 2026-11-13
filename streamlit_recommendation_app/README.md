@@ -48,7 +48,7 @@ The current database project is `recommendation-system-db`. Do not commit secret
 ## Streamlit Community Cloud deployment
 
 1. Open Streamlit Community Cloud and select **New app**.
-2. Choose repository `santhi-sagar/mlops`.
+2. Choose repository `santhi-sagar/product-recommendation-system`.
 3. Select branch `main`.
 4. Set the main file path to `streamlit_recommendation_app/app.py`.
 5. In Advanced settings, add:
